@@ -1,5 +1,5 @@
 <p align="center">
-<b>the vector database you just need - no more, no less.</b>
+<b>the unibasedb vector database component</b>
 </p>
 
 <p align=center>
@@ -7,7 +7,7 @@
 <a href="https://pypistats.org/packages/unibasedb"><img alt="PyPI - Downloads from official pypistats" src="https://img.shields.io/pypi/dm/unibasedb?style=flat-square"></a>
 </p>
 
-`unibase` vector database offering a comprehensive suite of [CRUD](#crud-support) (Create, Read, Update, Delete) operations and robust scalability options scaling-your-db, including sharding and replication. It is deployable across various environments: from [local development](#getting-started-with-unibase-locally) to [on-premise servers](#getting-started-with-unibase-as-a-service) and the cloud.
+`unibase` is a vector database offering a comprehensive suite of [CRUD](#crud-support) (Create, Read, Update, Delete) operations and robust scalability options scaling-your-db, including sharding and replication. It is deployable across various environments: from [local development](#getting-started-with-unibase-locally) to [on-premise servers](#getting-started-with-unibase-as-a-service) and the cloud.
 
 By leveraging the power of [DocArray](https://github.com/docarray/docarray) for vector logic and a powerful serving layer, `unibasedb` provides a lean, Pythonic design tailored for performance without unnecessary complexity.
 
@@ -20,13 +20,13 @@ pip install unibasedb
 <table>
   <tr>
     <td>
-      <a href="#getting-started-with-unibase-locally">
-        <img src="" alt="Use unibasedb locally" width="100%">
+      <a href="#-getting-started-with-unibase-locally">
+        <img src="https://raw.githubusercontent.com/Unibase-Labs/unibasedb/refs/heads/main/media/local.png" alt="Use unibasedb locally" width="100%">
       </a>
     </td>
     <td>
       <a href="#getting-started-with-unibase-as-a-service">
-        <img src="" alt="Use unibasedb as a service" width="100%">
+        <img src="https://raw.githubusercontent.com/Unibase-Labs/unibasedb/refs/heads/main/media/cloud.png" alt="Use unibasedb as a service" width="100%">
       </a>
     </td>
   </tr>
