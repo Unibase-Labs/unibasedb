@@ -3,7 +3,7 @@
 </p>
 
 <p align=center>
-<a href="https://pypi.org/project/unibasedb/"><img alt="PyPI" src="https://img.shields.io/pypi/v/unibase?label=Release&style=flat-square"></a>
+<a href="https://pypi.org/project/unibasedb/"><img alt="PyPI" src="https://img.shields.io/pypi/v/unibasedb?label=Release&style=flat-square"></a>
 <a href="https://pypistats.org/packages/unibasedb"><img alt="PyPI - Downloads from official pypistats" src="https://img.shields.io/pypi/dm/unibasedb?style=flat-square"></a>
 </p>
 
